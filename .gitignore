@@ -1,0 +1,3 @@
+Adding in the default .gitignore deletes my bin and obj folders.
+
+.vs

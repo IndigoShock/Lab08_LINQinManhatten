@@ -1,0 +1,11 @@
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\bin\Debug\netcoreapp2.0\Lab08_LINQinManhatten.deps.json
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\bin\Debug\netcoreapp2.0\Lab08_LINQinManhatten.runtimeconfig.json
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\bin\Debug\netcoreapp2.0\Lab08_LINQinManhatten.runtimeconfig.dev.json
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\bin\Debug\netcoreapp2.0\Lab08_LINQinManhatten.dll
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\obj\Debug\netcoreapp2.0\Lab08_LINQinManhatten.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\obj\Debug\netcoreapp2.0\Lab08_LINQinManhatten.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\obj\Debug\netcoreapp2.0\Lab08_LINQinManhatten.AssemblyInfo.cs
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\bin\Debug\netcoreapp2.0\Lab08_LINQinManhatten.pdb
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\obj\Debug\netcoreapp2.0\Lab08_LINQinManhatten.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\obj\Debug\netcoreapp2.0\Lab08_LINQinManhatten.dll
+C:\Users\steph\source\repos\Lab08_LINQinManhatten\Lab08_LINQinManhatten\obj\Debug\netcoreapp2.0\Lab08_LINQinManhatten.pdb
