@@ -27,3 +27,7 @@ This program's License is MIT.
 - http://github.com/jcqnly 
 - Jesse Atay
 - Judah Hunger
+- Earl Jay Caoile for helping with Query 4
+                
+- Thank you to this doc for helping with LINQ operations: 
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations
